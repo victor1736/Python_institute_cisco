@@ -2,8 +2,11 @@
 ¿Cuál es la salida del siguiente código?
 
 R//
-0123
-4
+-1
+0
+1
+2
+3
 '''
 n = range(4)
 

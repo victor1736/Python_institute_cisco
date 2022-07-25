@@ -10,8 +10,9 @@ Su nombre debe ser mysplit().
 Utiliza la plantilla en el editor. Prueba tu código con cuidado.
 '''
 def mysplit(strng):
-    strng = input(str('Ingrese la cadena de su preferencia: '))
-    if 
+        strng=strng.split()
+        return strng
+    
                   
 
 

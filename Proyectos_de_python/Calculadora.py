@@ -77,7 +77,4 @@ boton0.grid( row = 5, column = 0, padx = 5, pady = 5)
 boton_punto.grid( row = 5, column = 1, padx = 5, pady = 5)
 boton_igual.grid( row = 5, column = 2, columnspan = 2, padx = 5, pady = 5)
 
-
-
-
 ventana.mainloop()

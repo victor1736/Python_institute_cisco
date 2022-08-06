@@ -2,6 +2,8 @@ from tkinter import *
 
 ventana = Tk()
 ventana.title("Calculadora de Victor")
+#ventana.iconbitmap("calculadora.ico")
+ventana.config(bg = "blue")
 
 i = 0
 
